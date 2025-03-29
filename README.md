@@ -1,1 +1,1 @@
-# cicd
+This is the cicd project created for learning aws with Jenkins, docker, kubernetes
